@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788735632472",
+    "project_id": "practice-firebase-testapp",
+    "storage_bucket": "practice-firebase-testapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788735632472:android:af58f2c120b9b7a3c4162d",
+        "android_client_info": {
+          "package_name": "com.example.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5b6ImEfdedKX-ZK5Jb_ju0r0yoM9ATjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
